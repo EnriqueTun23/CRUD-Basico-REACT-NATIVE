@@ -73,7 +73,6 @@ To wake up a mac book just run the following command:
 ```sh
     json-server db.json
 ```
-
-
-
 ## Step 5: Demo
+
+![demoCrudRN](https://github.com/user-attachments/assets/e577d20f-b6eb-4c44-9c16-0e955f5e5586)
