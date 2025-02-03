@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Enrique",
+      "telefono": "8888909012",
+      "email": "Ffhhgg@gmail.com",
+      "empresa": "Kik",
+      "id": "3ccb"
+    },
+    {
+      "id": "b9e1",
+      "nombre": "dede",
+      "telefono": "2313121231",
+      "email": "quiquejesus94@gmail.com",
+      "empresa": "sigmoid"
+    }
+  ]
+}

@@ -48,6 +48,21 @@ Then, and every time you update your native dependencies, run:
 bundle exec pod install
 ```
 
+Obtener la ip en windows
+```sh
+    ipconfig
+```
+
+Copiar la ip este caso se saca como en el ejemplo acontinuacion
+```sh
+    Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.119
+```
+Levantar la aplicacion de datos para poder hacer pruebas
+```sh
+json-server --host 192.168.0.11 --port 3000  db.json
+```
+
+
 For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
 
 ```sh
